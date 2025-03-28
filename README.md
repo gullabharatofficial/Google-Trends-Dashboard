@@ -8,7 +8,7 @@ This dashboard provides insights into trending topics based on Google Search dat
 1. **Keywords with Country Value**: An overview of the most popular keywords by country.
 2. **By Country Wisely**: Breakdown of keyword popularity by different countries.
 3. **Past 7 Days Keywords**: Analysis of trending keywords over the past week.
-![Image Description](https://github.com/Bharat74309/Google-Trends-Dashboard/blob/bec3d78dba915960447ea876e1e49f3649686d8d/Screenshot%202024-07-14%20193920.png)
+https://github.com/gullabharatofficial/Google-Trends-Dashboard/blob/main/Screenshot%202024-07-14%20193920.png?raw=true   
 ### Keywords by Date
 1. **Keywords by Date Value**: Insights into keyword popularity on specific dates.
 2. **Keywords by Date (Dynamic Date)**: Analysis of keywords by yearly, quarterly, and monthly intervals.
